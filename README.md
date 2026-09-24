@@ -1,6 +1,6 @@
 <img width="1521" height="741" alt="image" src="https://github.com/user-attachments/assets/dd00fd78-04ec-41df-a50c-dfc87a0598ba" />
 
-# Zomato-Style Sales & Revenue Dashboard
+# Zomato Sales & Revenue Dashboard
 
 An Excel dashboard analyzing ~100,000 food delivery orders (Jan 2024 – Jun 2026) across 12 Indian cities, built to answer key sales and revenue questions using a formula-driven, self-updating design (no hardcoded numbers).
 
